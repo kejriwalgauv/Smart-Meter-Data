@@ -1,2 +1,2 @@
-# Smart-Meter-Data
-Final Year B.Tech Project 
+# Smart Grid Consumer Behavioral Model
+Final Year B.Tech Project, Phase-1
